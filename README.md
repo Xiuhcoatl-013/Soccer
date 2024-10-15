@@ -11,4 +11,4 @@
  <img src="https://github.com/Xiuhcoatl-013/Soccer/blob/main/Soccer/Soccer___%5Bimages%5D/Sports%2BPerformance%2BAnalysis%2B-%2BAutomated%2BData%2BCollection%2B5.gif" width="700px" height="auto">
 
 
-- [__Automating Data Collection And Match Analysis From Video Footage__](http://localhost:8888/notebooks/OneDrive%20-%20Vitesco%20Technologies/05%20Lecture/Soccer/Soccer.ipynb)
+- [__Automating Data Collection And Match Analysis From Video Footage__](https://github.com/Xiuhcoatl-013/Soccer/blob/main/Soccer/Soccer.ipynb)
