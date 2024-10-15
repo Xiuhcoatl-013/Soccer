@@ -9,7 +9,7 @@
  complex and advanced 5-D visualisations that are superimposed on original video footage.</p>
  
  <br><br/> 
-[<img src="https://github.com/Xiuhcoatl-013/Soccer/blob/main/Soccer/Soccer___%5Bimages%5D/Sports%2BPerformance%2BAnalysis%2B-%2BAutomated%2BData%2BCollection%2B5.gif" width="90px" height="auto"/>]()
+[<img src="https://github.com/Xiuhcoatl-013/Soccer/blob/main/Soccer/Soccer___%5Bimages%5D/Sports%2BPerformance%2BAnalysis%2B-%2BAutomated%2BData%2BCollection%2B5.gif" width="900px" height="auto"/>]()
 <br><br/>
 
 - [__Automating Data Collection And Match Analysis From Video Footage__](https://github.com/Xiuhcoatl-013/Soccer/blob/main/Soccer/Soccer.ipynb)
